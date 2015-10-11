@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin Wallets]]></description>
         <link>https://thegrid.ai/bitcoin-wallets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 01:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 02:08:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin-wallets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Choose your wallet - Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Choose your wallet - Bitcoin</h1><p>This wallet is a full node that validates and relays transactions on the Bitcoin network. This means no trust in a third party is required when verifying payments. Full nodes provide the highest level of security and are essential to protecting the network. However, they require more space (over 20GB), bandwidth, and a longer initial synchronization time.</p><img src="https://bitcoin.org/img/icons/opengraph.png"></article>]]></description>
+            <link>https://bitcoin.org/en/choose-your-wallet</link>
+            <guid isPermaLink="false">9637eb36-c4e3-4353-a306-9d0816404209</guid>
+            <pubDate>Sun, 11 Oct 2015 02:08:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin: New Generation Of 'Hard' Wallets Bodes Well For Long Term Value]]></title>
             <description><![CDATA[<article><h1>Bitcoin: New Generation Of 'Hard' Wallets Bodes Well For Long Term Value</h1><p>It doesn't take a genius to see that the future of Bitcoin as a currency depends on its value, or rather people's perception of its value. In this context, value does not necessarily equate to price.</p><img src="http://www.nasdaq.com/images/news/slideshows/virtual-currency/bitcoin-01.jpg"></article>]]></description>
