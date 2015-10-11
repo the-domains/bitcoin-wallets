@@ -1,6 +1,6 @@
 name: Bitcoin Wallets
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 cta:
   domain: null
   bucket: null
