@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bitcoin Wallets]]></title>
+        <description><![CDATA[Bitcoin Wallets]]></description>
+        <link>https://thegrid.ai/bitcoin-wallets/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 11 Oct 2015 01:19:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bitcoin-wallets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Airbitz]]></title>
+            <description><![CDATA[<article><h1>Airbitz</h1><p>URL: Airbitz.co ● About: Airbitz is a mobile bitcoin wallet that is made for Apple iOS devices and Google Android devices. Airbitz features automatic wallet encryption and cloud backup, and device-to-device account sync across phone, tablet, iOS, and Android. Mobile wallet users can store, send, and receive bitcoin transactions.</p><img src="http://bitcoinx.io/wp-content/uploads/2014/11/airbitz.jpg"></article>]]></description>
+            <link>http://bitcoinx.io/wallets/airbitz/</link>
+            <guid isPermaLink="false">05d2dbdb-d8b6-4764-883e-a0e997793fa3</guid>
+            <pubDate>Sun, 11 Oct 2015 01:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fall 2015: Top Rated Bitcoin Wallets]]></title>
+            <description><![CDATA[<article><h1>Fall 2015: Top Rated Bitcoin Wallets</h1><p>Welcome to our Fall 2015 edition of the top rated and reviewed bitcoin wallets, where we highlight the best ranked bitcoin wallets on the market according to community reviews. For those unfamiliar with our website, we have the largest database of bitcoin wallets where we monitor every wallet and provide tools to the bitcoin community to rate and review each one.</p><img src="http://bitcoinx.io/wp-content/uploads/2014/04/electrum.jpg"></article>]]></description>
+            <link>http://bitcoinx.io/news/reports/fall-2015-top-rated-bitcoin-wallets/</link>
+            <guid isPermaLink="false">9dd0c1aa-4712-441e-967c-b62a203f7b5c</guid>
+            <pubDate>Sun, 11 Oct 2015 01:14:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
