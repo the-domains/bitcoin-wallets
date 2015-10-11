@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin Wallets]]></description>
         <link>https://thegrid.ai/bitcoin-wallets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 02:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 02:08:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin-wallets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AirBitz - Mobile Bitcoin Wallet | Bit Reviews | Software, Casino, Bitcoins Review]]></title>
+            <description><![CDATA[<article><h1>AirBitz - Mobile Bitcoin Wallet | Bit Reviews | Software, Casino, Bitcoins Review</h1><p>AirBitz Mobile Bitcoin Wallet was showcased at a Bitcoin Meetup that I attended several months ago, and I had the opportunity to talk to Paul (the CEO) and ask him some questions, as well as hear his answers to other's questions. Airbitz has made a great little iPhone and Android mobile wallet.</p><img src="http://bitreviews.info/wp-content/uploads/2015/02/AirBitz.png"></article>]]></description>
+            <link>http://bitreviews.info/reviews/airbitz-mobile-bitcoin-wallet/</link>
+            <guid isPermaLink="false">34bc5f9b-17ca-4346-aba8-f582bb5bf967</guid>
+            <pubDate>Sun, 11 Oct 2015 02:08:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Choose your wallet - Bitcoin]]></title>
             <description><![CDATA[<article><h1>Choose your wallet - Bitcoin</h1><p>This wallet is a full node that validates and relays transactions on the Bitcoin network. This means no trust in a third party is required when verifying payments. Full nodes provide the highest level of security and are essential to protecting the network. However, they require more space (over 20GB), bandwidth, and a longer initial synchronization time.</p><img src="https://bitcoin.org/img/icons/opengraph.png"></article>]]></description>
